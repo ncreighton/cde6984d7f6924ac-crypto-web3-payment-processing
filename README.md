@@ -1,0 +1,2 @@
+# cde6984d7f6924ac-crypto-web3-payment-processing
+The crypto web3 tool you'd build yourself — if you had the time.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Crypto Web3 Payment Processing Integration — fully configured and ready to use - Slash command interface for all major functio
